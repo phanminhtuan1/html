@@ -8,21 +8,23 @@ body{
 h1 {
     text-align: center;
     font-family: Time New Romen;
-    font-size:150% ;
+    font-size:80px ;
 }
 h2 {
     font-family: Time New Romen;
-    font-size:100% ;
+    font-size:60px ;
 }
 p{
-     font-family: Time New Romen;
+    font-size:40px ;
+    font-family: Time New Romen;
 }
 pre{
+    font-size:40px ;
      font-family: Time New Romen;
 }
 img{
     text-align: center;
 }
-dl{
+dl{font-size:40px ;
     font-family: Time New Romen;
 }
