@@ -19,9 +19,12 @@ p{
      font-size:250% ;
 }
 pre{
-     font-famile: Time New Romen;
-     font-size:250% ;
+     <br><br>
 }
 img{
     text-align: center;
+}
+dl{
+    font-famile: Time New Romen;
+     font-size:250% ;
 }
