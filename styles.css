@@ -1,5 +1,5 @@
 body{ 
-    background-image:url('anhr/bc.jpg');
+    background-image:url('img/bc.jpg');
     background-repeat:no-repect;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -18,4 +18,7 @@ p{
 pre{
      font-famile: Time New Romen;
      font-size:250% ;
+}
+img{
+    text-align: center;
 }
