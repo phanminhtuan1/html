@@ -37,7 +37,7 @@ Nếu nghĩ rằng tự lắp ráp máy tính có thể rẻ hơn đi mua một 
          Khi bắt đầu xây dựng một bộ PC, điều đầu tiên bạn phải quyết định là mình sẽ mua CPU nào. Nhiều người sẽ khuyên rằng nên chọn Bo mạch chủ (Mainboard) trước, nhưng chúng tôi khuyến nghị CPU mới là thứ cần được ưu tiên chọn đầu tiên khi Build PC. Bởi vì thương hiệu và socket của CPU quyết định loại mainboard nào phù hợp, tiếp sau đó mới mua RAM, VGA, PSU…
           Chúng tôi sẽ hướng dẫn qua các bước để chọn được CPU phù hợp nhu cầu của bạn và những thuật ngữ liên quan.
           Bộ vi xử lý hay còn gọi là CPU (The Central Processing Unit) được ví như “Bộ não” của máy tính. CPU thực hiện tất cả tác vụ và xử lý hệ thống thông tin hiệu quả nhất có thể. Nếu mà nói thêm về CPU 2 ngày nữa chưa đọc hết nên chúng tôi tập trung để làm thế nào chọn được CPU phù hợp nhất cho yêu cầu Build PC của bạn. Hãy bắt đầu với một số khái niệm để biết mà chém gió với tư vấn viên khi mua hỏi mua CPU.
-                                          <img src="img/pc42.jpg" height="700" width="500">
+                                          <img src="img/PC42.jpg" height="700" width="500">
          Các thuật ngữ cần biết:
 
             Socket – là cổng cắm của CPU vào mainboard. Tùy dòng CPU và hãng sản xuất sẽ có socket khác nhau. Bạn cần để ý loại socket của CPU để sau đó mua mainboard phù hợp. Hiện nay, các CPU Intel sử dụng socket LGA1150 , LGA1151, LGA2011-3, LGA2066, LGA1151-v2 và socket FM2+, AM3+, AM4+ của CPU AMD.
@@ -63,7 +63,7 @@ Nếu nghĩ rằng tự lắp ráp máy tính có thể rẻ hơn đi mua một 
             Loại Socket của CPU
                 Đây chính là loại socket của CPU bạn chọn. Mỗi loại CPU đều có 1 loại socket duy nhất vừa hợp với main. Nên bạn cần chắc chắn chọn đúng main phù hợp với CPU.
                 Ví dụ: Nếu đã chọn CPU AMD có socket loại AM3+ thì cần chọn 1 loại main cũng có socket AM3+. Tương tự với CPU Intel có socket LGA 1151 cần main có socket 1151.
-                                            <img src="img/pc42.jpg" height="700" width="500">
+                                            <img src="img/pc43.jpg" height="700" width="500">
    
 
 
