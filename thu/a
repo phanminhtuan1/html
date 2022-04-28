@@ -58,3 +58,21 @@ Nếu nghĩ rằng tự lắp ráp máy tính có thể rẻ hơn đi mua một 
             Một vài website có thể giúp bạn so sánh hiệu năng của các CPU với nhau như CPU benchmarks, hoặc nếu bạn đang dùng 1 PC thi thử vào System Requirements Lab, bạn có thể kiểm tra xem PC của mình có chạy nổi game mình muốn chơi không nhé. Thường các cấu hình của game đưa ra không ghi rõ chính xác tên CPU nào, họ sẽ chỉ ra CPU của bạn nên có Xung nhịp tối thiểu hoặc bao nhiêu nhân. Từ đó giới hạn loại CPU bạn có thể mua.
 
         Nếu bạn quá lười và không thích đọc bất kỳ chỉ số đánh giá nào, cũng đừng lo, xem luôn tại đây cho dễ nhé “Cấu hình PC theo từng Game”. Nếu game bạn muốn chơi chưa có trong danh sách này thì thoải mái bấm vào nút Messenger yêu cầu Admin cập nhật ngay cấu hình cho game bạn muốn chơi nhé.
+    3.Hướng dẫn chọn Bo mạch chủ – Mainboard 
+        Các thuật ngữ cần biết để chọn được một mainboard tối ưu cho máy tính chơi game
+            Loại Socket của CPU
+                Đây chính là loại socket của CPU bạn chọn. Mỗi loại CPU đều có 1 loại socket duy nhất vừa hợp với main. Nên bạn cần chắc chắn chọn đúng main phù hợp với CPU.
+                Ví dụ: Nếu đã chọn CPU AMD có socket loại AM3+ thì cần chọn 1 loại main cũng có socket AM3+. Tương tự với CPU Intel có socket LGA 1151 cần main có socket 1151.
+                                            <img src="img/pc42.jpg" height="700" width="500">
+   
+
+
+
+
+
+
+
+
+
+
+
